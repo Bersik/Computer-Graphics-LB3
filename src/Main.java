@@ -1,3 +1,6 @@
+/**
+ * Created by Bersik on 16.03.2015.
+ */
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

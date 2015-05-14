@@ -1,4 +1,6 @@
-
+/**
+ * Created by Bersik on 16.03.2015.
+ */
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
